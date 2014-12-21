@@ -17,7 +17,7 @@ Adds a shortcode to show a tip box on any post or page. Use the simply [tip][/ti
 Tips Shortcode is on [GitHub](https://github.com/fpcorso/tips_shortcode/)!
 
 = Demoes! =
-You can check out the demo here: [Demo Tip](http://mylocalwebstop.com/sample-quiz/)!
+You can check out the demo here: [Demo Tip](http://mylocalwebstop.com/tips-shortcode/)!
 
 == Installation ==
 
