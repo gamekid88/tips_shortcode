@@ -11,7 +11,7 @@ Adds a shortcode to show a tip box
 
 == Description ==
 
-Adds a shortcode to show a tip box on any post or page. Use the simply [tip][/tip] shortcode to place the text into a tip box.
+Adds a shortcode to show a tip box on any post or page. Simply use the [tip][/tip] shortcode to place the text into a tip box.
 
 = Make Suggestions Or Contribute =
 Tips Shortcode is on [GitHub](https://github.com/fpcorso/tips_shortcode/)!
