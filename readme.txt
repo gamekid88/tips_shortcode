@@ -40,7 +40,7 @@ We now offer an installation service to assist you in this process. We will inst
 == Frequently Asked Questions ==
 
 = I have an idea, how do I contact you? =
-Feel free to use the widget on the help page within the plugin or from the contact page at mylocalwebstop.com.
+Feel free to use the support forums for this plugin or from the [My Local Webstop Contact Us Page](http://mylocalwebstop.com/contact-us/)
 
 == Screenshots ==
 
