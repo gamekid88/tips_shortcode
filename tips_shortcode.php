@@ -5,7 +5,7 @@
  * Description: Shortcode to create tip box
  * Author: Frank Corso
  * Author URI: http://mylocalwebstop.com
- * Version: 0.1.0
+ * Version: 0.2.0
  *
  * Disclaimer of Warranties
  * The plugin is provided "as is". My Local Webstop and its suppliers and licensors hereby disclaim all warranties of any kind, 
@@ -14,9 +14,16 @@
  * You understand that you install, operate, and uninstall the plugin at your own discretion and risk.
  * 
  * @author Frank Corso
- * @version 0.1.0
+ * @version 0.2.0
  */
- 
+
+/**
+ * Takes content from shortcode and adds a tip box around it
+ * 
+ * @access public
+ * @since 0.1.0
+ * @return string The string of the div tipBox and its contents
+ */
 function tip_block_shortcode( $atts, $content = null ) {
 	extract(shortcode_atts(array(
 		'color' => '#fff8c4'
