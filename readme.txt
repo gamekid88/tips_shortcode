@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: tip, tipbox, shortcode, help, hint, notice, alert
 Requires at least: 3.8.1
 Tested up to: 4.1
-Stable tag: 0.1.0
+Stable tag: 0.2.0
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Adds a shortcode to show a tip box
@@ -12,6 +12,8 @@ Adds a shortcode to show a tip box
 == Description ==
 
 Adds a shortcode to show a tip box on any post or page. Simply use the [tip][/tip] shortcode to place the text into a tip box.
+
+You can change the color of the tipBox by using the color attribute. So, to set the tipBox to a light green, simply use: [tip color="lightgreen"][/tip]. Leave out the color to use the default yellow.
 
 = Make Suggestions Or Contribute =
 Tips Shortcode is on [GitHub](https://github.com/fpcorso/tips_shortcode/)!
@@ -48,10 +50,16 @@ Feel free to use the support forums for this plugin or from the [My Local Websto
 
 == Changelog ==
 
+= 0.2.0 (December 30, 2014) =
+ * Added Color Attribute For Setting Tip Box Color
+
 = 0.1.0 (December 22, 2014) =
 * Initial Version
 
 == Upgrade Notice ==
+
+= 0.2.0 =
+Upgrade for the ability to set the tip box color using the shortcode
 
 = 0.1.0 =
 Initial Version
