@@ -18,9 +18,12 @@
  */
  
 function tip_block_shortcode( $atts, $content = null ) {
+	extract(shortcode_atts(array(
+		'color' => '#fff8c4'
+	), $atts));
 	wp_enqueue_style( 'dashicons' );
 	wp_enqueue_style( 'ts_style', plugins_url('includes/ts_stylesheet.css', __FILE__) );
-	return "<div class='tipBox'><span class='dashicons dashicons-lightbulb'></span>$content</div>";
+	return "<div class='tipBox' style='background:<?php echo $color; ?>;'><span class='dashicons dashicons-lightbulb'></span>$content</div>";
 }
 
 add_shortcode( 'tip', 'tip_block_shortcode' );
