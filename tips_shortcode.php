@@ -5,7 +5,7 @@
  * Description: Shortcode to create tip box
  * Author: Frank Corso
  * Author URI: http://mylocalwebstop.com
- * Version: 0.2.0
+ * Version: 0.2.1
  *
  * Disclaimer of Warranties
  * The plugin is provided "as is". My Local Webstop and its suppliers and licensors hereby disclaim all warranties of any kind, 
@@ -14,7 +14,7 @@
  * You understand that you install, operate, and uninstall the plugin at your own discretion and risk.
  * 
  * @author Frank Corso
- * @version 0.2.0
+ * @version 0.2.1
  */
 
 /**
