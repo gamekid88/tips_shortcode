@@ -5,6 +5,7 @@
  * Description: Shortcode to create tip box
  * Author: Frank Corso
  * Author URI: http://mylocalwebstop.com
+ * Tested up to: 4.2
  * Version: 0.2.0
  *
  * Disclaimer of Warranties
