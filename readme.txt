@@ -3,7 +3,7 @@ Contributors: fpcorso
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RTGYAETX36ZQJ
 Tags: tip, tipbox, shortcode, help, hint, notice, alert
 Requires at least: 3.8.1
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 0.2.0
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
