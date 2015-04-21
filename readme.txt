@@ -49,6 +49,8 @@ Feel free to use the support forums for this plugin or from the [My Local Websto
 1. Example Tip
 
 == Changelog ==
+= 0.2.1 (April 21, 2015)
+* Updated the plugin to be compatible with Wordpress 4.2
 
 = 0.2.0 (December 30, 2014) =
  * Added Color Attribute For Setting Tip Box Color
